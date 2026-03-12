@@ -1,0 +1,7 @@
+{
+  "name": "Live Interview Transcriber",
+  "description": "A proof of concept for live interview transcription using real-time audio processing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
